@@ -1,0 +1,23 @@
+
+NOTE: Do not use any inbuilt methods
+
+1. Write a method that takes an integer array as input and returns a new array 
+with the elements in reverse order.
+2. Create a method that accepts an array of integers and returns the maximum 
+and minimum values found in the array.
+3. Write a method that checks if there are any duplicate elements in an integer 
+array. Return true if duplicates exist, otherwise return false.
+4. Create a method that merges two sorted integer arrays into a single sorted 
+array.
+5. Write a method that rotates an array to the right by a given number of steps.
+6. Write a method that checks whether a given string is a palindrome (reads 
+the same forwards and backwards).
+7. Create a method that counts the number of vowels and consonants in a 
+given string.
+8. Write a method that reverses the characters in a given string.
+9. Create a method that returns the first non-repeated character in a string. If 
+there are no non-repeated characters, return a special value (like null).
+10. Write a method that checks whether two strings are anagrams of each 
+other (contain the same characters in a different order).
+11. Create a method that counts how many times a given substring 
+appears in a string.
