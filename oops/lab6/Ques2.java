@@ -8,7 +8,7 @@ public class Ques2 {
         if (age>0 && age <= 150) return age;
         else throw new InvalidAgeException("Age can only between 0 and 150");
     }
-    public static void main(String[] args) throws InvalidAgeException {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         try {
             System.out.println("Enter Your Age : ");

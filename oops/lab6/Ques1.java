@@ -1,9 +1,11 @@
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+// Question 1 : Basic Exception Handling
+
 public class Ques1 {
     public static void main(String[] args) {
-        // Question 1 : Basic Exception Handling
         Scanner scan = new Scanner(System.in);
         int num1,num2;
         try {
